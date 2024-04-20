@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{05BA9895-FECF-4E64-BB34-1EA0BD0CE17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadTemplate.Api", "src\DownloadTemplate.Api\DownloadTemplate.Api.csproj", "{DF09882E-624E-4F7C-9E27-65C8AB5E1088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF09882E-624E-4F7C-9E27-65C8AB5E1088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF09882E-624E-4F7C-9E27-65C8AB5E1088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF09882E-624E-4F7C-9E27-65C8AB5E1088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF09882E-624E-4F7C-9E27-65C8AB5E1088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF09882E-624E-4F7C-9E27-65C8AB5E1088} = {05BA9895-FECF-4E64-BB34-1EA0BD0CE17C}
+	EndGlobalSection
+EndGlobal

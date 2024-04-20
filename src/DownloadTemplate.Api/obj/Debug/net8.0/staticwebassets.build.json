@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y+iWS0w1g9lswDkSOkpx2wEL4cM2bVSYqiC6j+5iRco=",
+  "Source": "DownloadTemplate.Api",
+  "BasePath": "_content/DownloadTemplate.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
